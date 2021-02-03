@@ -1,12 +1,17 @@
-h1{
-    color: #000;
+.card1{
+    border: 2px solid black;
+   width: 28%;
+    margin: 10px 10px;
+    padding: 10px 5px 40px 30px;
 }
-.s0{
-     color:red;
-}
-#s1{
+.IMG{
+    padding-left: 60PX;
+    border-radius: 50%;
 
 }
-.s2{
-    border-style: dotted;
+.RESUME{
+    margin-left: 100PX;
+}
+.parent{
+    display: flex;
 }

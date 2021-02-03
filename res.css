@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    border: 2px solid white;
+    margin: 0px;
+
+}
+.ldiv{
+    border: 2px solid white;
+    
+ margin-right: 8px;
+ flex: 1;
+}
+
+img{
+    border-radius: 50%;
+    padding-left: 30px;
+}
+.fh1{
+    background-color: #6B5B95;
+    
+}
+
+.rdiv{
+    border: 2px solid white;
+    margin: 2px;
+    padding: 2px;
+    flex: 3;
+
+}
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  @media only screen and(max-width:300px){
+     .rdiv{
+         background-color: thistle;
+     }
+    
+  }
+
