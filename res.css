@@ -2,10 +2,12 @@
     display: flex;
     border: 2px solid white;
     margin: 0px;
+    background-color: #FCF3CF;
 
 }
 .ldiv{
     border: 2px solid white;
+    
     
  margin-right: 8px;
  flex: 1;
